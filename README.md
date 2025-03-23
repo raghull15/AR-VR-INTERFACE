@@ -21,4 +21,4 @@ On the other hand, Virtual Reality (VR) takes things a step further by completel
 
 # OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/e88bc504-338d-4169-b08b-58b7397b9558)
+![Image](https://github.com/user-attachments/assets/6462c587-0416-4c79-94eb-5c683bc23567)
