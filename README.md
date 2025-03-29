@@ -1,15 +1,4 @@
 # AR/VR INTERFACE
-**COMPANY**: CODTECH IT SOLUTIONS PVT.LTD
-
-**NAME**: R.DHANUSH KUMAR
-
-**INTERN ID**: CT04WUZ
-
-**DOMAIN**: UI/UX DESIGN
-
-**BATCH DURATION**: February 25th 2025 to March 25th 2025.
-
-**MENTOR NAME**: Neela Santhosh Kumar
 
 # DESCRIPTION :
 
@@ -19,6 +8,5 @@ Augmented Reality (AR) is all about adding digital elements to the real world. T
 
 On the other hand, Virtual Reality (VR) takes things a step further by completely immersing you in a fully digital environment. When you put on a VR headset, you are transported to another world—a world where everything around you is virtual. Whether it's exploring distant planets, diving into historical events, or experiencing thrilling adventures, VR makes you feel as though you are really there. Unlike AR, which blends the digital with the physical, VR replaces your real-world surroundings entirely. It’s widely used in gaming, but its applications go beyond that. For instance, VR can simulate real-world environments for training purposes, offering people a safe and controlled space to practice dangerous tasks or complex procedures, like surgery or piloting aircraft.
 
-# OUTPUT :
 
 ![Image](https://github.com/user-attachments/assets/6462c587-0416-4c79-94eb-5c683bc23567)
